@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/watercolor-stains-abstract-background_23-2149107181.jpg?w=360");
+    background-size: cover;
+}
+
+svg{
+    cursor: pointer;
+}
+
+.drop{
+    width:400px;
+    height:300px;
+    align-items: center;
+    align-content: center;
+    border-radius: 10px;
+    border-color: black;
+}
